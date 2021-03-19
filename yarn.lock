@@ -3932,7 +3932,7 @@ dir-glob@^3.0.1:
   dependencies:
     path-type "^4.0.0"
 
-docus@^0.0.8:
+docus@0.0.8:
   version "0.0.8"
   resolved "https://registry.yarnpkg.com/docus/-/docus-0.0.8.tgz#4077c94f702f4fe7e85cca66e35227f5e51aa5df"
   integrity sha512-1lmqBuPWTTYbZWBR8LGSVEWq9AqNFBJZ1MQngV3vCiZXPzrhlpEiTgkNwikI/m79Ae9THS1KrJuMepyGdEqsmg==
@@ -6718,7 +6718,7 @@ nuxt-i18n@^6.20.0:
     klona "^2.0.4"
     vue-i18n "^8.18.1"
 
-nuxt@^2.15.0:
+nuxt@2.15.0:
   version "2.15.0"
   resolved "https://registry.yarnpkg.com/nuxt/-/nuxt-2.15.0.tgz#c13e4173e165a1cd538ecc19a05c25a8d3889404"
   integrity sha512-XEnd4DOYWs4hvAyqdqzrMeQ2wwsUB9ggVJeGDanHBjknxQL3g4k8QKun53MPDRHo5ve8wj/H4UrbmzVXek4hOA==
