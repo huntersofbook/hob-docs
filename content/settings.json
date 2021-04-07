@@ -1,6 +1,9 @@
 {
-  "title": "Docus Starter",
-  "url": "https://starter.docus.dev",
-  "github": "nuxt/docus-starter",
-  "twitter": "nuxt_js"
+  "title": "huntersofbook",
+  "url": "https://docs.huntersofbook.com",
+  "github": "huntersofbook/hob-docs",
+  "twitter": "huntersofbook",
+  "colors": {
+    "primary": "#059669"
+  }
 }
