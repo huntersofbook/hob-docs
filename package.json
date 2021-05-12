@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "docus": "0.4.0",
-    "nuxt": "2.15.5"
+    "nuxt": "2.15.6"
   }
 }
