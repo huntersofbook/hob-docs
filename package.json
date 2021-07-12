@@ -8,7 +8,7 @@
     "start": "nuxt start"
   },
   "dependencies": {
-    "docus": "0.7.0",
+    "docus": "0.9.0",
     "nuxt": "2.15.6"
   }
 }
